@@ -1450,47 +1450,10 @@ body {
     padding-top: 3rem;
   }
 }
-.cid-qKqe0DMQkb {
-  padding-top: 90px;
-  padding-bottom: 0px;
-  background-color: #f9f9f9;
-}
-.cid-qKqe0DMQkb .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qKqe0DMQkb .media-row {
-  display: flex;
-  justify-content: center;
-}
-.cid-qKqe0DMQkb .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-qKqe0DMQkb .team-item .item-image img {
-  width: 100%;
-}
-.cid-qKqe0DMQkb .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-qKqe0DMQkb .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-qKqe0DMQkb .team-item .item-social {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-.cid-qKqe0DMQkb .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-qKqe0DMQkb .team-item .item-caption {
-  background: #efefef;
-}
-.cid-qKSwbHEzlf {
-  padding-top: 30px;
-  padding-bottom: 60px;
-  background-color: #f9f9f9;
+.cid-qKT4lhdAZx {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/teamphoto-1920x400.jpg");
 }
 .cid-qKqbDLBOCV {
   padding-top: 60px;
